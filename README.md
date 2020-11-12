@@ -1,5 +1,5 @@
 # baske
-Simple free throw game.
+Simple the free throw game.
 
 # Environment
 - lwjgl-2.9.2
