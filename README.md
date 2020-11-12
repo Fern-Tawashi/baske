@@ -1,5 +1,5 @@
 # baske
-LWJGL + jbullet
+Simple free throw game.
 
 # Environment
 - lwjgl-2.9.2
